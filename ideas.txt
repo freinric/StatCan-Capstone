@@ -1,0 +1,15 @@
+Baseline clustering model: 
+	- violin plots
+
+
+
+
+
+
+
+
+
+Bootstrapping for robustness check @ the end
+
+
+use mapbox for final chloropleth visualization (https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2020011-eng.htm)
