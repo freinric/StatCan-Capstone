@@ -20,6 +20,9 @@
 # RStudio files
 .Rproj.user/
 
+# Jupyter Notebook
+.ipynb_checkpoints
+
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
